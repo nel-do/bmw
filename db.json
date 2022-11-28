@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+    "cli": "61419597332",
+	  "address": "106. Pittwater Road, Sydney",
+	  "state": "new south wales" 
+    "email_address": "neil.snowdon@vonage.com",
+    "username": "Neil"
+    },
+	    {
+    "cli": "6591997332",
+	  "address": "1. Constitution Rd, Brisbane",
+	  "state": "queensland"
+    "email_address": "arnaud.savigny@vonage.com",	  
+    "username": "Arnaud"
+    }
+  ]
+}
+
